@@ -1,0 +1,50 @@
+[
+{
+  "directory": "C:/Users/DELL/CLionProjects/Programming/cmake-build-debug",
+  "command": "\"C:\\PROGRA~1\\JetBrains\\CLion 2026.1.2\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++17 -fdiagnostics-color=always -Wall -Wextra -o CMakeFiles\\NetScope.dir\\NetWorking.cpp.obj -c C:\\Users\\DELL\\CLionProjects\\Programming\\NetWorking.cpp",
+  "file": "C:/Users/DELL/CLionProjects/Programming/NetWorking.cpp",
+  "output": "C:/Users/DELL/CLionProjects/Programming/cmake-build-debug/CMakeFiles/NetScope.dir/NetWorking.cpp.obj"
+},
+{
+  "directory": "C:/Users/DELL/CLionProjects/Programming/cmake-build-debug",
+  "command": "\"C:\\PROGRA~1\\JetBrains\\CLion 2026.1.2\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++17 -fdiagnostics-color=always -Wall -Wextra -o CMakeFiles\\NetScope.dir\\server.cpp.obj -c C:\\Users\\DELL\\CLionProjects\\Programming\\server.cpp",
+  "file": "C:/Users/DELL/CLionProjects/Programming/server.cpp",
+  "output": "C:/Users/DELL/CLionProjects/Programming/cmake-build-debug/CMakeFiles/NetScope.dir/server.cpp.obj"
+},
+{
+  "directory": "C:/Users/DELL/CLionProjects/Programming/cmake-build-debug",
+  "command": "\"C:\\PROGRA~1\\JetBrains\\CLion 2026.1.2\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++17 -fdiagnostics-color=always -Wall -Wextra -o CMakeFiles\\NetScope.dir\\tree.cpp.obj -c C:\\Users\\DELL\\CLionProjects\\Programming\\tree.cpp",
+  "file": "C:/Users/DELL/CLionProjects/Programming/tree.cpp",
+  "output": "C:/Users/DELL/CLionProjects/Programming/cmake-build-debug/CMakeFiles/NetScope.dir/tree.cpp.obj"
+},
+{
+  "directory": "C:/Users/DELL/CLionProjects/Programming/cmake-build-debug",
+  "command": "\"C:\\PROGRA~1\\JetBrains\\CLion 2026.1.2\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++17 -fdiagnostics-color=always -Wall -Wextra -o CMakeFiles\\NetScopeClient.dir\\clientside.cpp.obj -c C:\\Users\\DELL\\CLionProjects\\Programming\\clientside.cpp",
+  "file": "C:/Users/DELL/CLionProjects/Programming/clientside.cpp",
+  "output": "C:/Users/DELL/CLionProjects/Programming/cmake-build-debug/CMakeFiles/NetScopeClient.dir/clientside.cpp.obj"
+},
+{
+  "directory": "C:/Users/DELL/CLionProjects/Programming/cmake-build-debug",
+  "command": "\"C:\\PROGRA~1\\JetBrains\\CLion 2026.1.2\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -Wall -Wextra -o CMakeFiles\\Graphs.dir\\graphs.c.obj -c C:\\Users\\DELL\\CLionProjects\\Programming\\graphs.c",
+  "file": "C:/Users/DELL/CLionProjects/Programming/graphs.c",
+  "output": "C:/Users/DELL/CLionProjects/Programming/cmake-build-debug/CMakeFiles/Graphs.dir/graphs.c.obj"
+},
+{
+  "directory": "C:/Users/DELL/CLionProjects/Programming/cmake-build-debug",
+  "command": "\"C:\\PROGRA~1\\JetBrains\\CLion 2026.1.2\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -Wall -Wextra -o CMakeFiles\\BinaryTree.dir\\tree.c.obj -c C:\\Users\\DELL\\CLionProjects\\Programming\\tree.c",
+  "file": "C:/Users/DELL/CLionProjects/Programming/tree.c",
+  "output": "C:/Users/DELL/CLionProjects/Programming/cmake-build-debug/CMakeFiles/BinaryTree.dir/tree.c.obj"
+},
+{
+  "directory": "C:/Users/DELL/CLionProjects/Programming/cmake-build-debug",
+  "command": "\"C:\\PROGRA~1\\JetBrains\\CLion 2026.1.2\\bin\\mingw\\bin\\gcc.exe\" -g -std=gnu11 -fdiagnostics-color=always -Wall -Wextra -o CMakeFiles\\Recursion.dir\\recursion.c.obj -c C:\\Users\\DELL\\CLionProjects\\Programming\\recursion.c",
+  "file": "C:/Users/DELL/CLionProjects/Programming/recursion.c",
+  "output": "C:/Users/DELL/CLionProjects/Programming/cmake-build-debug/CMakeFiles/Recursion.dir/recursion.c.obj"
+},
+{
+  "directory": "C:/Users/DELL/CLionProjects/Programming/cmake-build-debug",
+  "command": "\"C:\\PROGRA~1\\JetBrains\\CLion 2026.1.2\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++17 -fdiagnostics-color=always -Wall -Wextra -o CMakeFiles\\NetPractice.dir\\NetPrac.cpp.obj -c C:\\Users\\DELL\\CLionProjects\\Programming\\NetPrac.cpp",
+  "file": "C:/Users/DELL/CLionProjects/Programming/NetPrac.cpp",
+  "output": "C:/Users/DELL/CLionProjects/Programming/cmake-build-debug/CMakeFiles/NetPractice.dir/NetPrac.cpp.obj"
+}
+]

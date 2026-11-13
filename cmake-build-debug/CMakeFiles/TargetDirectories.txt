@@ -1,0 +1,8 @@
+C:/Users/DELL/CLionProjects/Programming/cmake-build-debug/CMakeFiles/NetScope.dir
+C:/Users/DELL/CLionProjects/Programming/cmake-build-debug/CMakeFiles/NetScopeClient.dir
+C:/Users/DELL/CLionProjects/Programming/cmake-build-debug/CMakeFiles/Graphs.dir
+C:/Users/DELL/CLionProjects/Programming/cmake-build-debug/CMakeFiles/BinaryTree.dir
+C:/Users/DELL/CLionProjects/Programming/cmake-build-debug/CMakeFiles/Recursion.dir
+C:/Users/DELL/CLionProjects/Programming/cmake-build-debug/CMakeFiles/NetPractice.dir
+C:/Users/DELL/CLionProjects/Programming/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DELL/CLionProjects/Programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
